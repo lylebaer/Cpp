@@ -1,0 +1,16 @@
+// Lyle Baer - While loop - Sample
+
+int a = 0;
+while (a < 5)
+{
+  cout << "While Loop " << a << endl;
+  a++;
+  
+  }
+  
+  /*
+  Result:
+  
+  6 While loops: While Loop 0 - 5
+  
+  */
